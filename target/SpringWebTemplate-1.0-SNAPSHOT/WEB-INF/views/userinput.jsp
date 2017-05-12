@@ -10,6 +10,8 @@
 <html>
 <head>
     <title>User Form Page</title>
+    <link href="../resources/coffeeShop.css" rel="stylesheet">
+
 </head>
 <body>
 
@@ -63,6 +65,7 @@
 </form:form>
 
 <script>
+
 
 </script>
 
